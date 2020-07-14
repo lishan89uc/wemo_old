@@ -1,5 +1,5 @@
 {
-  "domain": "wemo",
+  "domain": "wemo_old",
   "name": "Belkin WeMo",
   "config_flow": true,
   "documentation": "https://www.home-assistant.io/integrations/wemo",
